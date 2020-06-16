@@ -31,7 +31,6 @@
         fluid
       >
        <Table></Table>
-       <Table></Table>
       </v-container>
     </v-content>
 
